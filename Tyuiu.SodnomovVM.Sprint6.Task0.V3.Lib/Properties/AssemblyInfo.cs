@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tyuiu.SodnomovVM.Sprint6.Task0.V3")]
+[assembly: AssemblyTitle("Tyuiu.SodnomovVM.Sprint6.Task0.V3.Lib")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("Tyuiu.SodnomovVM.Sprint6.Task0.V3")]
+[assembly: AssemblyProduct("Tyuiu.SodnomovVM.Sprint6.Task0.V3.Lib")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cc7fa74b-fc8d-46fc-ad65-8ee8bfd6aaf1")]
+[assembly: Guid("068d2b37-262c-44bb-a45a-df8d4e7a27b0")]
 
 // Version information for an assembly consists of the following four values:
 //
